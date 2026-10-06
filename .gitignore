@@ -1,0 +1,7 @@
+# Model weights (too large for GitHub, >100 MB)
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
