@@ -24,8 +24,6 @@ presentation/
     Chest_Xray_Detection_Presentation.pptx
 archive/
     draft_unexecuted.ipynb    brouillon non exécuté (= notebook 01 sans la ligne `device`)
-_to_delete/
-    dataPrep_EMPTY.ipynb      fichier vide (0 octet) — peut être supprimé
 ```
 
 Le dossier s'appelle `input/` exprès : les notebooks utilisent les chemins Kaggle
